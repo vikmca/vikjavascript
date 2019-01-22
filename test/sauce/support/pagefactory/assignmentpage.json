@@ -1,0 +1,16 @@
+{
+  "assignment" : {
+    "assignmentSaveOnCurrentDate" : "(//div[contains(@class,'cg-calendar ng-isolate-scope')]//div[contains(@class,'day ng-scope today')])[1]/div[contains(@class,'event')]/span[contains(.,'{{}}')]",
+    "assignmentSaveOnFutureDate"  : "//div[@class='day ng-scope']//span[@class='number ng-binding' and (text()='1')]//following-sibling::div[contains(@class,'event')]//span[contains(.,'{{}}')]",
+    "assignmentSaveOnFuture2ndDate"  : "//div[@class='day ng-scope']/span[@class='number ng-binding' and (text()='2')]//following-sibling::div[contains(@class,'event')]//span[contains(.,'{{}}')]",
+    "assignmentOnNextMonth" : "((//div[@class='week ng-scope day-selection-disabled']//div[@class='day ng-scope'])[1]//div[contains(@class,'event')])[1]//span/parent::div"
+  },
+  "dragassignment" : {
+    "assignmentOnDateOfNextMonthOfCurrent" : "//div[@class='day ng-scope']/span/span[@class='number ng-binding' and (text()='{{}}')]//parent::span//following-sibling::div[contains(@class,'event')]",
+    "assignmentOnDateOfNextMonth" : "//div[@class='day ng-scope']/span/span[@class='number ng-binding' and text()={{}}]/parent::span//parent::div",
+    "assignmentOnNextWeek" : "//span[@class='number ng-binding' and (text()='[[]]')]/parent::span//parent::div//span[contains(text(),'{{}}')]"
+  },
+  "assignmentForm" : {
+    "dueDateCalendar" : "//cg-date-picker[contains(.,'Due Date')]//div[contains(@class,'datefield')]"
+  }
+}

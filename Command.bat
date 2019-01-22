@@ -1,0 +1,1 @@
+grunt --gruntfile GF_MediaQuiz.js --target="staging" --product=ORGB5 --course="Automation : ORGB5" --grid=http://10.0.30.167:4444/wd/hub --browser=chrome --index=2

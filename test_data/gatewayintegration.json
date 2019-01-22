@@ -1,0 +1,76 @@
+{
+    "stageGatewayIntegration_url": "https://cengageintegrationqa1.blackboard.com/webapps/login/",
+    "service": {
+        "baseURL": "http://s-c-ws.cengage.com",
+        "lmsbaseURL": "https://cgatewayqa.cengage.com",
+        "user": {
+            "uid": "4ltr-qa-inst@cengage.com",
+            "password": "T3sting"
+        }
+    },
+
+    "coursename": [
+     "Four Letter LTI Testing Course 1",
+     "Four Letter LTI Testing Course 2"
+
+   ],
+    "statusSyncLmsButtonWhenDisabled": "true",
+    "statusSyncLmsButtonWhenEnabled": "false",
+    "lmsproduct": [
+        {
+            "id": "PSYCH4",
+            "title": "PSYCH 4 Rathus 4LTR",
+            "deploymentId": "207192711039595878893026292154"
+        },
+        {
+            "id": "ORGB5",
+            "title": "ORGB Online 6mo Nelson and Quick",
+            "deploymentId": "207520211039594939854130425987"
+        },
+        {
+            "id": "MKTG9",
+            "title": "MKTG 9 Lamb 4LTR",
+            "deploymentId": "207192511039595878238662860297"
+        },
+        {
+            "id": "HIST4",
+            "title": "HIST 4 Schultz 4LTR",
+            "deploymentId": "207192611039595878729023273142"
+        }
+    ],
+
+    "users": {
+
+        "instructor": [
+            {
+                "credentials": {
+
+                    "username": "fourlettterins1",
+                    "password": "fourletter",
+                    "firstname": "Four Letter",
+                    "lastname": "Student One"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "fourlettterins2",
+                    "password": "fourletter",
+                    "firstname": "Four Letter",
+                    "lastname": "Student One"
+                }
+            }
+
+        ],
+
+        "student": [
+            {
+                "credentials": {
+                    "username": "fourlettterstu1",
+                    "password": "fourletter",
+                    "firstname": "Four Letter",
+                    "lastname": "Student One"
+                }
+            }
+        ]
+    }
+}

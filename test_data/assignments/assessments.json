@@ -1,0 +1,157 @@
+{
+
+    "systemgenerated": {
+
+        "scorestrategyhigh": {
+
+            "name": "ROBO-Q",
+
+            "revealdate": "",
+
+            "chapter": "3",
+
+            "editchapter": "1",
+
+            "questions": 5,
+
+            "unlimitedattempts": "6+",
+
+            "assignmentTextBelowExportButton": "1 Assignment",
+
+            "assignmentsTextBelowExportButton" : "Assignments",
+
+            "scorezero": "0",
+
+            "attempts": "unlimited",
+
+            "scoreStrategyAttempt": "3",
+
+            "attempt" : "4",
+
+            "editedAttempts": "2",
+
+            "defaultselectedAttempt": "1",
+
+            "attemptsremaining": "Attempts Remaining: 1/2",
+
+            "attemptsremaining2": "Attempts Remaining: 0/2",
+
+            "attemptsremaining3": "Attempts Remaining: 2/2",
+
+            "attemptsprogressmsg": "(Attempt in Progress)",
+
+            "totalAttemptBeforeEdit": "2/2",
+
+            "totalAttemptAfterEdit": "Unlimited",
+
+            "score": 30,
+
+            "showCorrectAnswer": "SHOW CORRECT ANSWERS",
+
+            "Print": "PRINT",
+
+            "hideAnswer": "HIDE ANSWERS",
+
+            "feedbackColoumnCount" : 3,
+
+            "feedbackColoumnCount2" : 5,
+
+            "scoreStrategy": "report-type"
+        },
+        "scorestrategyAverage": {
+
+            "name": "ROBO-Q",
+
+            "revealdate": "",
+
+            "chapter": "3",
+
+            "questions": 5,
+
+            "attempts": 3,
+
+            "score": 75,
+
+            "scoreStrategy": "report-average"
+        },
+
+        "scoreStrategyAll": {
+          "questions" : 3
+        },
+
+        "QuestionStrategy": {
+            "option": [
+                "Choose for Me",
+                "I Will Choose"
+            ]
+        },
+
+        "buttonName": {
+            "firstbutton": "Cancel",
+            "secondbutton": "Click to begin"
+        },
+
+        "mediaquiz": {
+            "chapter": "5",
+            "showtranscriptbuttontext": "SHOW TRANSCRIPT",
+            "dueRevealDate": "Today",
+            "submit": "SUBMIT"
+
+        },
+
+        "createAssignmentOnList": {
+          "createAssignmentName": "CREATE NEW ASSIGNMENT"
+        },
+
+        "iwillchoose": {
+            "chapter": "3",
+            "editedChapter": "1",
+            "dueRevealDate": "Today",
+            "questions": 3,
+            "questionsSelected" : 5,
+            "filter": {
+                "Type": [
+                    "fill-in",
+                    "multiple-choice",
+                    "true-false"
+                ],
+                "Blooms": [
+                    "Remember",
+                    "Understand",
+                    "Apply"
+                ],
+                "Difficulty": [
+                    "Easy",
+                    "Moderate",
+                    "Challenging"
+                ],
+                "ConceptsNumber": [
+                    1,
+                    2
+                ]
+            }
+        }
+    },
+    "service": {
+        "integration": {
+            "url": "https://4ltr-services-dev.cengage.info/services"
+        },
+        "staging": [
+            {
+                "url": "https://4ltr-services-stage-v1.cengage.info/services"
+            },
+            {
+                "url": "https://4ltr-services-stage.cengage.info/services"
+            }
+        ],
+        "production": {
+            "url": "https://4ltr-services.cengage.info/services"
+        }
+    },
+    "dragndrop" : {
+        "fromDate": "2",
+        "toDate": "1",
+        "revealPanelText1": "Oops, the reveal date is now after the Due Date. Please choose a new reveal date.",
+        "revealPanelText2": "Reveal in Student Calendar"
+    }
+}

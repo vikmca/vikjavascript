@@ -1,0 +1,218 @@
+{
+    "integration_url":"https://int-login.cengage.com/cb/login.htm",
+    "urlForCookies" : "https://int-login.cengagebrain.com/cb/regionCookie.htm",
+    "cengagebrain" : "https://int-login.cengagebrain.com/cb/login.htm",
+
+    "users":{
+
+        "instructor":[
+            {
+                "credentials":{
+                    "username":"4LTRAuto1@cengage.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                  "username":"qa1-4ltrInst@cengage.com",
+                  "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                  "username":"qa2-4ltrInst@cengage.com",
+                  "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+                  "username":"qa3-4ltrInst@cengage.com",
+                  "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+                    "username":"qa4-4ltrInst@cengage.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+                    "username":"4LTRAuto1@cengage.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+                    "username":"inst01_3may2018@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+                    "username":"inst02_3may2018@swlearning.com",
+                    "password":"T3sting"
+                }
+            }
+        ],
+
+        "student": [
+            {
+                "credentials": {
+                    "username": "auto.1.intstudent@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "Integration"
+                }
+            },
+            {
+                "credentials": {
+                  "username": "student1.intaccount@cengage.com",
+                  "password": "T3sting",
+                  "firstname": "QA",
+                  "lastname": "INT"
+                }
+            },
+            {
+                "credentials": {
+                  "username": "student2.intaccount@cengage.com",
+                  "password": "T3sting",
+                  "firstname": "QA",
+                  "lastname": "INT"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "student3.intaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "INT"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "student4.intaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "INT"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "qa.student.1@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "test10",
+                    "lastname": "qa10"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "student5.intaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "INT"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "student6.intaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "QA",
+                    "lastname": "INT"
+                }
+            }
+        ]
+
+
+    },
+
+    "custom":{
+      "students":{
+          "multipleInSingleCourse": [
+                {
+                  "credentials": {
+                      "username": "4ltr-A2-student@cengage.com",
+                      "password": "T3sting",
+                      "firstname": "Robo",
+                      "lastname": "A"
+                    }
+                },
+                {
+                  "credentials":{
+                      "username": "4ltr-B2-student@cengage.com",
+                      "password": "T3sting",
+                      "firstname": "Robo",
+                      "lastname": "B"
+                  }
+                }
+              ],
+          "dropCourse": [
+            {
+              "credentials": {
+                "username": "qa.student.103@cengage.com",
+                "password": "C3ngag31",
+                "firstname": "TestBot",
+                "lastname": "Robo"
+                }
+            },
+            {
+              "credentials": {
+                "username": "qa.student.122@cengage.com",
+                "password": "C3ngag31",
+                "firstname": "TestBot",
+                "lastname": "Robo"
+                }
+            }
+          ],
+          "TA": [
+              {
+                  "credentials": {
+                    "username": "4ltr-ta-student01@cengage.com",
+                    "password": "C3ngag31",
+                    "firstname": "4LTR",
+                    "lastname": "TA"
+                  }
+              },
+              {
+                  "credentials": {
+                    "username": "4ltr-ta-student001@cengage.com",
+                    "password": "C3ngag31",
+                    "firstname": "4LTR",
+                    "lastname": "Student"
+                  }
+              },
+              {
+                  "credentials": {
+                    "username": "qa.student.TA.1@cengage.com",
+                    "password": "C3ngag31",
+                    "firstname": "4LTR",
+                    "lastname": "Student"
+                  }
+              }
+          ],
+          "productSpecific": [
+            {
+              "credentials": {
+                "username": "qa.student.1003@cengage.com",
+                "password": "C3ngag31",
+                "firstname": "TestBot",
+                "lastname": "Robo"
+                }
+            }
+          ],
+          "mycengage":[
+            {
+              "credentials": {
+                "username": "qa.student.10001@cengage.com",
+                "password": "C3ngag31",
+                "firstname": "4LTR",
+                "lastname": "TestBot"
+                }
+            }
+          ]
+        }
+    }
+
+}

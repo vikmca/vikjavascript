@@ -1,0 +1,8 @@
+{
+  "praticeQuiz" : {
+    "pastQuizButtonOnResultPage" : ".sliding-menu-button.past-quizzes.ng-scope",
+    "retakeButtonOnResultPage" : ".sliding-menu-button.retake-quiz.ng-scope",
+    "progressButtonOnResultPage" : ".progress",
+    "incorrectQuestionOnResultPage"  : "//a[@aria-controls='incorrect']"
+  }
+}

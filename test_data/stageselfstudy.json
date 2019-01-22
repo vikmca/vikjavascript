@@ -1,0 +1,19 @@
+{
+
+  "prod_url":"https://s-c-login.cengage.com/cb/login.htm",
+
+"users":{
+
+	"student": [
+     	 {
+	        "credentials": {
+		          "username": "selfstudy.student.staging@cengage.com",
+		          "password": "T3sting",
+                  "firstname": "student",
+                  "lastname": "selfstudy"
+       		 }
+    	  }
+  	]
+
+}
+}

@@ -1,0 +1,192 @@
+{
+    "staging_url":"https://perf-c-login.cengage.com/cb/login.htm",
+    "urlForCookies" : "https://perf-c-login.cengagebrain.com/cb/regionCookie.htm",
+
+    "users":{
+
+        "instructor":[
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494481919938.22@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494481919938.23@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494481919938.25@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494481919938.26@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494481919938.27@swlearning.com",
+                    "password":"T3sting"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Instructor.1494482583062.21@swlearning.com",
+                    "password":"T3sting"
+                }
+            }
+        ],
+
+        "student": [
+            {
+                "credentials": {
+                    "username": "FourLtr.Student.1494481919938.505@swlearning.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "FourLtr.Student.1494481919938.506@swlearning.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "2.stagingaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "auto3.stagingaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            },
+            {
+                "credentials": {
+                    "username": "auto.4.stagingaccount@cengage.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            },
+            {
+                "credentials":{
+
+                    "username":"FourLtr.Student.1494481919938.514@swlearning.com",
+                    "password":"T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                }
+            }
+        ]
+
+    },
+
+    "custom":{
+      "students":{
+          "multipleInSingleCourse": [
+                {
+                  "credentials": {
+                      "username": "FourLtr.Student.1494481919938.512@swlearning.com",
+                      "password": "T3sting",
+                      "firstname": "Perf",
+                      "lastname": "Load"
+                    }
+                },
+                {
+                  "credentials":{
+                      "username": "FourLtr.Student.1494481919938.511@swlearning.com",
+                      "password": "T3sting",
+                      "firstname": "Perf",
+                      "lastname": "Load"
+                  }
+                }
+              ],
+          "dropCourse": [
+            {
+              "credentials": {
+                "username": "FourLtr.Student.1494481919938.510@swlearning.com",
+                "password": "T3sting",
+                "firstname": "Perf",
+                "lastname": "Load"
+                }
+            },
+            {
+              "credentials": {
+                "username": "FourLtr.Student.1494481919938.509@swlearning.com",
+                "password": "T3sting",
+                "firstname": "Perf",
+                "lastname": "Load"
+                }
+            }
+          ],
+          "TA": [
+              {
+                  "credentials": {
+                    "username": "FourLtr.Student.1494481919938.508@swlearning.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                  }
+              },
+              {
+                  "credentials": {
+                    "username": "FourLtr.Student.1494481919938.507@swlearning.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                  }
+              },
+              {
+                  "credentials": {
+                    "username": "FourLtr.Student.1494481919938.506@swlearning.com",
+                    "password": "T3sting",
+                    "firstname": "Perf",
+                    "lastname": "Load"
+                  }
+              }
+          ],
+          "productSpecific": [
+            {
+              "credentials": {
+                "username": "FourLtr.Student.1494481919938.505@swlearning.com",
+                "password": "T3sting",
+                "firstname": "Perf",
+                "lastname": "Load"
+                }
+            }
+          ],
+          "mycengage":[
+            {
+              "credentials": {
+                "username": "FourLtr.Student.1494481919938.504@swlearning.com",
+                "password": "T3sting",
+                "firstname": "Perf",
+                "lastname": "Load"
+                }
+            }
+          ]
+        }
+    }
+}

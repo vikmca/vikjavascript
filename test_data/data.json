@@ -1,0 +1,328 @@
+{
+    "termsAssociatedWithInstructorUser": [
+
+        "instructor",
+        "Marketing",
+        "marketing",
+        "Psychology",
+        "Assignments Course",
+        "TestCourse7",
+        "Marketing Strategy",
+        "Enter search term",
+        "newinstructor",
+        "Gradebook Version"
+
+    ],
+
+    "termsAssociatedWithStudentUser": [
+
+        "student",
+        "Marketing",
+        "Psychology",
+        "TestCourse7",
+        "selfstudent",
+        "newstudent",
+        "Assignments Course",
+        "PSYHC4",
+        "ConceptTrackerStudent",
+        "ConceptTrackerCourse",
+        "Course For Sanity",
+        "PSYCH4 Course for sanity"
+
+    ],
+
+    "stagingEnvironmentDetails": [
+
+        "studentUser",
+        "instructorUser"
+
+
+    ],
+
+    "existingCourseDetails": {
+
+        "usertype": "instructor",
+        "product": "MKTG9",
+        "coursename": "Automation : MKTG9",
+        "selfstudycoursename": "MKTG"
+
+    },
+    "flashcard": {
+      "activeTab": "Flashcards"
+    },
+    "ConceptTracker": {
+        "mediaLabels": {
+            "label1": "Videos",
+            "label2": "Viewed",
+            "label3": "Students Viewed At Least One",
+            "label4": "Total Views"
+        },
+        "tagValue": "Unassigned"
+
+
+    },
+
+    "ManageMyCourse": {
+        "dropDownLabels": {
+            "label1": "ASSIGNMENTS",
+            "label2": "GRADEBOOK",
+            "label3": "CONCEPT TRACKER",
+            "label4": "DOCUMENTS"
+        }
+
+    },
+
+    "termsAssociatedWithDevInstructor": [
+        "devInstructor",
+        "TestCourse",
+        "MKTG9"
+    ],
+
+    "termsAssociatedWithAssignmentInstructor": [
+        "assignmentInstructor",
+        "Assignments Course",
+        "Course For Sanity",
+        "PSYCH4 Course for Sanity"
+    ],
+    "termsAssociatedWithConceptTrackerStudentInstructor": [
+        "conceptTrackerInstructor",
+        "ConceptTracker Course"
+    ],
+
+    "courseAccessInformation": {
+        "temporaryAccessForDateSetToday": "20 days",
+        "temporaryAcessForDateSet10DaysBeforeToday": "10 days",
+        "DateBeforeToday": "10",
+        "DateAfterToday": "1"
+    },
+    "DropStudent": {
+        "dropStudentFromCourse": {
+            "buttonText": "DROP STUDENT",
+            "gradebookText": "Gradebook",
+            "exportButtonText": "EXPORT",
+            "cancelTextOndialogue": "CANCEL",
+            "confirmTextOndialogue": "YES",
+            "afterCoursedroppedTextOnDialogueBox": "You have been dropped from this course.",
+            "okTextOndialogueBox": "OK"
+        }
+    },
+    "DropCourseStudent": {
+        "dropCourseFromStudent": {
+            "dropCourseOptionText": "Drop Course",
+            "dialogueBoxContainsText": "Are you sure you want to drop this course?",
+            "dialogueBoxAfterCourseDroppedText": "Please log out of all CengageBrain sessions and log back in.",
+            "dashboardTextIfNoCoursePresent": "Enter Your Course or Register a Product",
+            "intDashboardTextIfNoCoursePresent" : "Register Your Product",
+            "dashboardText": "There is currently no content in your dashboard."
+        }
+    },
+
+    "assignmentDetails": {
+        "assignmentTextBoxDtails": {
+            "assignmentNameWithSpaces": "RoboWithSpaces",
+            "assignmentNameWithSpaceleftCount": "5",
+            "iWillChooseAttributeStatus": "true",
+            "textBoxStatus": "true",
+            "countLeftBeyondAssignmentLimits": "-1",
+            "countLeftBeyondNotesLimits": "-1 left",
+            "assignmentNameWithSpaces1": "trailing",
+            "assignmentName": "RoboWithSpaces trailing"
+        }
+    },
+
+
+    "assignmentDetailsToBeFilled": {
+        "assignmentName": "Automated Assignment",
+        "editAssignmentName": "Edited Assignment",
+        "assignmentDescription": "Assignment Created by automation script"
+    },
+
+    "assignmentDetailsToBeFilled12": {
+        "assignmentName": "Automated Chapter Reading"
+    },
+
+    "assignmentDetailsToBeFilled22": {
+        "assignmentName": "Automated assessment",
+        "editAssignmentName": "Edited Assignment"
+    },
+
+    "assignmentDetailsToBeFilledForFilter": {
+        "assignmentName": "Automated assessment for Filter"
+    },
+
+    "searchFeatureDetails": {
+        "searchTermForMKTG9": "Marketing",
+        "searchTermForPSYCH4": "Psychology",
+        "searchReturned": "100 Search Results"
+    },
+
+    "assessmentDetails": {
+        "assessmentName": "Automated Assignment",
+        "endToEndWorkflowAssignment": "Q-C1–1Q-10pt-HS-IWBI",
+        "visualCueForPreviewAssessment": "Each student will receive a randomized set of questions"
+    },
+
+    "attachement_documentAndLinks": {
+        "Chapter1": "Ch 1 - Case Study",
+        "Chapter3": "Ch 3 - Who Wants to Be a Marketer?"
+    },
+
+    "alertForFlashcardFileter": {
+        "messege": "Your Flashcard has been created but is not visible due to the current filter.",
+        "editFlashcardChapter": 5
+    },
+
+    "instructorResourceCenter": {
+        "createCourseQuestionLabel": "Would you like to create a new course or copy an existing course?",
+        "courseInformationLabel": "Course Information (Required)"
+    },
+
+    "viewPastPracticeQuizPage": {
+        "pastQuizLabel": "My Past Quizzes"
+    },
+
+    "flashcardTerms": {
+        "frontEndText": "Front End text by Automation Script",
+        "backEndText": "Back End text by Automation Script"
+    },
+
+    "notesTerms": {
+        "noteText": "Note added through Automation script",
+        "noteText2": "Note added through ROBO",
+        "editedtext": "Edited note text through ROBO",
+        "notesCount": 2,
+        "afterDeletingStudybitNotesCount": 0
+    },
+
+    "logoOnSTudyboard": {
+        "textOnLogo": "COLLECT STUDYBITST"
+    },
+
+    "studybitTerms": {
+        "comprehension": "WEAK",
+        "editedUserTagText": "Edited User Tag"
+    },
+
+    "logoOnSTudyboard": {
+        "textOnLogo": "TAP OR CLICK IN CHAPTERS TO"
+    },
+
+	    "textAfterApplyingClearAllFilter": {
+        "textIfNoFlashcardPresent": "No matching flashcards were found.",
+        "alertTextInCUrrentFilter": "Your Flashcard has been created but is not visible due to the current filter."
+    },
+
+    "copyrightTerms": {
+        "textLabel": [ "Copyright Notices",
+            "Terms of Use",
+            "Help",
+            "Accessibility",
+            "Privacy Statement"
+        ],
+        "targetAttribute": {
+            "0": "http://www.cengage.com/copyright",
+            "1": "http://www.cengage.com/4ltrpressonline-service-agreement",
+            "2": "http://support.cengage.com/MagellanWeb/SupportOptions.aspx",
+            "3": "http://www.cengage.com/accessibility",
+            "4": "http://www.cengage.com/privacy"
+        }
+    },
+
+    "studentGradebookTerms": {
+        "classAverage": "Class Avg (Pts)"
+    },
+
+    "courseCreationTimeOut": {
+        "integration": 45000,
+        "staging": 45000,
+        "production": 45000
+
+    },
+
+    "courseAggregationTimeOut": {
+        "integration": 360000,
+        "staging": 360000,
+        "production": 360000
+
+    },
+
+
+    "timeout": {
+      "quiz": 340000,
+      "concepttracker":120000,
+      "topicNavigation":340000,
+      "newStudentRegistration":220000,
+      "searchFeature":360000,
+      "gradebook":220000,
+      "additionalLoadTimeFeature": 180000,
+      "timeoutForDependentFeature":3000,
+      "publisherFlashCardReviewDeck": 600000,
+        "default": {
+            "integration": 120000,
+            "staging": 120000,
+            "production": 120000
+        }
+
+    },
+    "eula": {
+        "eulaMessage": "GOT IT!"
+    },
+
+    "products": {
+        "isbn": {
+            "MKTG9": "9781285860169",
+            "PSYCH4": "9781305091924",
+            "COMM4": "9781305659582",
+            "PFIN6": "9781337117005",
+            "ORGB5": "9781305663916",
+            "MIS7": "9781305667570",
+            "SOC5": "9781305660625"
+        }
+    },
+
+    "assignmentsOrder": {
+        "assignmentOderList": [ "assessment",
+            "reading",
+            "document"
+        ]
+    },
+
+    "studybitsOrder": {
+        "studybitsOrderList": "studybit text"
+    },
+
+    "documents": {
+    "heading": "Publisher Documents",
+    "allDocs": "All Docs",
+    "studentAccessibleDocs": "Student Accessible Docs"
+    },
+
+    "readerSpeaker":{
+      "readerSpeakerListen": "Listen",
+      "readerSpeakerHeading": "Settings",
+      "closeButtonText": "Close",
+      "textOfClosePlayer": "Close Player",
+      "readinglabel1": "Slow",
+      "readinglabel2": "Medium",
+      "readinglabel3": "Fast",
+      "generallabel1": "On",
+      "generallabel2": "Off",
+      "restorelabel1": "Restore all settings to their original defaults",
+      "restoreButtonText": "Restore default settings",
+      "selectedCheckboxLabel": "slow",
+      "selectedCheckboxLabelAfterRestore": "medium"
+    },
+
+    "video":{
+      "showtranscript": "SHOW TRANSCRIPT",
+       "hidetranscript": "HIDE TRANSCRIPT",
+       "downloadVideo": "DOWNLOAD TRANSCRIPT"
+     },
+
+     "attemptClear":{
+       "popUpBoxHeading" : "Clear Attempt Confirmation",
+       "popUpBoxWarning" : "You are about to clear this attempt for this student and allow them another attempt for this assignment. Once this attempt is cleared, it cannot be undone. Are you sure you want to clear the attempt?"
+     }
+
+
+}

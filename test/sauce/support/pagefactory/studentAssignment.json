@@ -1,0 +1,18 @@
+{
+  "studentAssignmentSubmissionPage" : {
+    "cas_multiple_choice_text" : ".cas-prompt span",
+    "cas_questions_text" : "span.cas-text",
+    "cas_fill_in_question_text" : "(//div[@class='cas-task']/span[@class='cas-text'])[1]",
+    "cas_activity_series" : ".cas-activity-series",
+    "trueFalseQuestionRadio" : ".cas-task .cas-truefalse",
+    "cas_choice_radio_for_true_false" : "(//div[@class='cas-choice-item'])[{{}}]/label",
+    "multipleChoiceQuestionRadio"  : ".cas-task .cas-multiple-choice",
+    "cas_choice_radio_for_multiple_type_question" : "(//label[@class='cas-choice-radio'])[{{}}]",
+    "continueButton" : "button.btn.btn-default.cas-activity-action",
+    "dropDownBox" : ".fa.fa-chevron-down",
+    "select_option_from_dropdown" : "ul li:nth-of-type({{}}) a span.cas-text",
+    "exit_button" : ".exit.ng-scope",
+    "disabled_continue_button" : "//button[@disabled=\"\"]",
+    "cas_activity_series_unvisited": ".cas-activity-series-unvisited"
+  }
+}

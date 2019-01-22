@@ -1,0 +1,20 @@
+{
+    "integration" : {
+        "product":{
+            "url":"http://kt-ws.cengage.com/ssows/SSOws?WSDL"
+        }
+
+    },
+    "staging" : {
+        "product":{
+            "url":"http://s-ws.cengage.com/ssows/SSOws?WSDL"
+        }
+
+    },
+    "production" : {
+        "product":{
+            "url":"http://ws.cengage.com/ssows/SSOws?WSDL"
+        }
+
+    }
+}
